@@ -1,7 +1,7 @@
 header {
   text-align: center;
   color: white;
-  background: darkgrey;
+  background: url("https://tinyurl.com/2p84bpar");
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 img {
@@ -39,5 +39,5 @@ article {
 }
 p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: ;
+  font-size: 18px;
 }
